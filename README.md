@@ -13,3 +13,7 @@
 + ) Dùng để truyền dữ liệu giữa các component.
 + ) Không thể được sửa đổi bên trong component con.
 
+### 2. Khác nhau:
+![image](https://github.com/Experimenters1/this.state-and-this.props-in-React-Native/assets/64000769/dc4e102a-8674-41c1-92f7-1fb17956d32e) <br><br>
+
+
