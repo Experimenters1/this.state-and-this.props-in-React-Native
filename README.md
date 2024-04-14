@@ -17,3 +17,4 @@
 ![image](https://github.com/Experimenters1/this.state-and-this.props-in-React-Native/assets/64000769/dc4e102a-8674-41c1-92f7-1fb17956d32e) <br><br>
 
 
+https://chat.openai.com/c/f2a6b630-89c0-4df9-a968-c8ab2cbfa7b9
